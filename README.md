@@ -16,7 +16,7 @@
 * `string.hexdigits`
 	- The string <kbd>0123456789abcdefABCDEF</kbd>.
 
-* `string.octdigits`
+* `string.octdigit`
 The string <kbd>01234567</kbd>.
 
 * `string.punctuation
