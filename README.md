@@ -19,5 +19,5 @@
 * `string.octdigits`
 The string <kbd>01234567</kbd>.
 
-* `string.punctuation`
+* `string.punctuatio
 	- String of ASCII characters which are considered punctuation characters in the C locale: `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
