@@ -1,4 +1,4 @@
-# Python Password Generator
+# Python Password Generato
 ##### THIS SIMPLE PROJECT WAS MADE USING PYTHON LIBRARY FUNCTIONS LIKE `string` & `random`.
 
 * `string.ascii_letters`
